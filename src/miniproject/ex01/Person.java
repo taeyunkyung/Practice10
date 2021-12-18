@@ -1,4 +1,4 @@
-package miniproject;
+package miniproject.ex01;
 
 public class Person {
 
